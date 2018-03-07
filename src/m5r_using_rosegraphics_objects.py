@@ -49,17 +49,17 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #          -- Write the names of three METHODs that Circle objects have:
 #               Hint: Use the circle from the  example3  function below with
 #               the dot trick to let PyCharm help you.
-#                  WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#                  _get_coordinates_for_drawing(),attach_to(),move_by()
 #
 #          -- Write the names of three INSTANCE VARIABLEs
 #             that Circle objects have:
 #                center coordinate X, center coordinate Y, & radius
 #
 #     f. What does a RoseWindow RENDER method do?
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#           to let shapes show up in the window
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#            to put it at the end of your def when finish running all the other codes in side the def, it allows us to finish this pop up and continue to next question
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
