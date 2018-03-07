@@ -53,7 +53,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #
 #          -- Write the names of three INSTANCE VARIABLEs
 #             that Circle objects have:
-#                center coordinate X, center coordinate Y, & radius
+#                fill_color,center, & radius
 #
 #     f. What does a RoseWindow RENDER method do?
 #           to let shapes show up in the window
